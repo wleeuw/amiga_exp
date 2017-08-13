@@ -1,2 +1,2 @@
-# amiga_exp
+# AMIGA EXPERIMENTS
 Amiga hardware programming experiments
